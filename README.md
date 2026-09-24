@@ -1,7 +1,7 @@
 Hi, I'm Bala — Noor Intelligence Dev 👋
 I design and build fast, mobile-first websites for food businesses —menus, online ordering and collection flows — end to end, in cleanvanilla HTML/CSS/JS with zero dependencies and zero frameworks.
 
-🔗 Live portfolio: https://noorintelligencedev.github.io/📧 Contact: balaalnur@gmail.com
+🔗 Live portfolio: https://noorintelligencedev.github.io/ Contact: balaalnur@gmail.com
 
 🍴 Live demos — try them like a customer
 Every demo is fully functional: add items to the basket, pick a collectionslot, place a test order.
